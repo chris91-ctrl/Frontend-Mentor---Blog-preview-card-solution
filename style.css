@@ -75,7 +75,7 @@ img{
 .text-title{
     font-family: 'Figtree';
     color: hsl(0, 0%, 7%);
-    font-size: clamp(1.25rem, 1.1vw, 1.5rem);;
+    font-size: clamp(1.25rem, 1.1vw, 1.5rem);
     font-weight: 800;
     line-height: 150%;
     letter-spacing: 0px;
